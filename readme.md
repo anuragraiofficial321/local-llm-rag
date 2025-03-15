@@ -10,9 +10,6 @@ This project demonstrates how to run local Large Language Models (LLMs) with [Ol
 
 A web UI has also been built using [Streamlit](https://streamlit.io/) to provide an interactive way to interact with Ollama.
 
-<p align="center">
-    <img src="images/streamlit_ui.png" alt="Screenshot of Streamlit web UI" width="600">
-</p>
 
 ## Requirements
 
