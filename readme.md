@@ -1,9 +1,5 @@
 # Local LLM with RAG
 
-<p align="center">
-    <img src="images/wizard_experimenting.jpg" alt="A wizard experimenting - Leonardo AI" width="600">
-</p>
-
 This project demonstrates how to run local Large Language Models (LLMs) with [Ollama](https://ollama.ai/) to perform Retrieval-Augmented Generation (RAG) for answering questions based on sample PDFs. We also utilize Ollama for creating embeddings with [nomic-embed-text](https://ollama.com/library/nomic-embed-text), which are stored in [Chroma](https://docs.trychroma.com/).
 
 A web UI has also been built using [Streamlit](https://streamlit.io/) to provide an interactive way to interact with Ollama.
