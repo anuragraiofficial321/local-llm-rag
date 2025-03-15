@@ -6,8 +6,6 @@
 
 This project demonstrates how to run local Large Language Models (LLMs) with [Ollama](https://ollama.ai/) to perform Retrieval-Augmented Generation (RAG) for answering questions based on sample PDFs. We also utilize Ollama for creating embeddings with [nomic-embed-text](https://ollama.com/library/nomic-embed-text), which are stored in [Chroma](https://docs.trychroma.com/).
 
-[![asciicast](https://asciinema.org/a/fepTvXf1UiDpRUhhNiswL8isu.svg)](https://asciinema.org/a/fepTvXf1UiDpRUhhNiswL8isu)
-
 A web UI has also been built using [Streamlit](https://streamlit.io/) to provide an interactive way to interact with Ollama.
 
 
