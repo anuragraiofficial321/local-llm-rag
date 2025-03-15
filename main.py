@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from langchain_ollama import ChatOllama
 from document_loader import load_documents_into_database
-from llm.llm import getStreamingChain
+from llm import getStreamingChain
 
 #--------------------------Constants----------------------#
 CHAT_MODEL = "mistral"
