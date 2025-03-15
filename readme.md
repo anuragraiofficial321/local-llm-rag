@@ -49,14 +49,12 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-```
-
 ## Running the Streamlit UI
 
 Launch the Streamlit web UI by running:
 
 ```sh
-streamlit run src/main.py
+streamlit run main.py
 ```
 
 ## Technologies Used
