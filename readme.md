@@ -16,7 +16,7 @@ A web UI has also been built using [Streamlit](https://streamlit.io/) to provide
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/local-llm-rag.git
+git clone https://github.com/anuragraiofficial321/local-llm-rag.git
 cd local-llm-rag
 ```
 
